@@ -33,4 +33,4 @@ CONTACT ME !! :
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](www.linkedin.com/in/karanv2002)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/__karan_2012/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](kvk804141@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:kvk804141@gmail.com)
